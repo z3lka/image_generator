@@ -10,19 +10,19 @@ Based on recent advancements in image generation Google's Gemini model seems to 
 
 prompt: a knight resting next to river with a black dragon at night with campfire pixel art
 
-prompt (openAI):
+**Enhanced prompt (openAI):**
 
 A pixel art scene depicting a valiant knight clad in intricately detailed armor, resting beside a gently flowing river under a starlit night sky. The knight sits at ease, his helmet placed beside him on the soft grass. Nearby, a majestic black dragon with shimmering scales rests peacefully, its eyes reflecting the flickering light of a crackling campfire. The fire casts a warm glow, illuminating the knight's face and creating dancing shadows on the dragon's sleek body. The night sky above is dotted with sparkling stars and a crescent moon, adding a touch of magic to this tranquil scene. The river reflects the celestial light, creating a serene and enchanting atmosphere.
 
-prompt (GenAI):
+**Enhanced prompt (GenAI):**
 
 Imagine a scene rendered in vibrant pixel art: A battle-worn knight, clad in tarnished steel armor, rests wearily upon a mossy riverbank beneath a vast, ink-black night sky dusted with a million shimmering stars. Beside him, a magnificent black dragon with scales like polished obsidian and eyes like molten gold reclines, its massive form casting a long shadow in the flickering firelight. A small campfire crackles merrily between them, casting a warm, orange glow that dances across the knight's tired face and the dragon's watchful gaze, illuminating the silent understanding between warrior and beast in this tranquil nighttime respite. This scene should be crafted with bold, chunky pixels, evoking a nostalgic, retro gaming aesthetic.
 
-| OpenAI Image 1                                 | OpenAI Image 2                                 |
+| OpenAI prompted Image 1                        | OpenAI prompted Image 2                        |
 | ---------------------------------------------- | ---------------------------------------------- |
 | ![OpenAI Image 1](./images/openai/image_1.png) | ![OpenAI Image 2](./images/openai/image_2.png) |
 
-| GenAI Image 1                                | GenAI Image 2                                |
+| GenAI prompted Image 1                       | GenAI prompted Image 2                       |
 | -------------------------------------------- | -------------------------------------------- |
 | ![GenAI Image 1](./images/genai/image_1.png) | ![GenAI Image 2](./images/genai/image_2.png) |
 
