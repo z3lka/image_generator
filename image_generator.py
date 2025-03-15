@@ -16,7 +16,7 @@ class ImageGenerator:
     def __init__(self, save_path: str) -> None:
         self.save_path = Path(save_path)
         self.save_path.mkdir(parents=True, exist_ok=True)
-        self.image_counter: int = len(os.listdir(self.save_path))
+        self.image_counter: int = len(os.listdir(self.save_path)) + 1
 
     def generate_image(self, prompt: str) -> None:
         try:
