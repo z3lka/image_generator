@@ -4,9 +4,7 @@ from google.genai import types
 from PIL import Image
 from io import BytesIO
 from pathlib import Path
-from config import GENAI_LLM, GENAI_API_KEY
-
-genai.api_key = GENAI_API_KEY
+from config import GENAI_LLM
 
 # NOTE: since I'm using Gemini-2.0-flash-exp model, the response will contain both text and image modalities
 # If you want to generate only images, you can use the Gemini-2.0-flash model
